@@ -14,8 +14,8 @@ IMPLEMENTAÇÕES:
 - implementacao_systemd-timesync-v249.11ubuntu3.9
 
 FERRAMENTAS:
-- AppScanHCL
-- Cppcheck
-- Flawfinder
+- AppScanHCL (licença "trial" de 30 dias, informações limitadas a quantidade de ocorrências de CWEs e tipo) 
+- Cppcheck (open source)
+- Flawfinder (open source)
 
 Nos repositóris estão os resultados de cada ferramenta e o códigos-fonte de cada impelmentação.
